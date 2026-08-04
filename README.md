@@ -12,7 +12,7 @@ Interview Prep and AI Engineering tracks and open to Software Engineering intern
 ### Education
 - **M.S. Software Engineering**, Regis University (in progress)
 - **B.S. Computer Science**, Regis University (2025)
-- 
+  
 ### Certificates
 - **CodePath**: Technical Interview Prep (TIP101) and AI Engineering (AI110)
 
