@@ -28,7 +28,6 @@ Interview Prep and AI Engineering tracks and open to Software Engineering intern
 |---------|-----------|------------|
 | [ShaTu](https://github.com/rblument/ShaTuApp) | Three-tier client-server tutoring system for the SHA-256 algorithm (senior capstone) | Java MySQL, JDBC |
 | [KWordle](https://github.com/thekimberleyann/kwordle) | Themed, browser-based Wordle-style game with a custom scoring engine | Next.js, React, TypeScript, Tailwind CSS |
-| [Cozy Home](https://github.com/thekimberleyann/cozyhome.koplugin) | Open-source KOReader study dashboard with SM-2 spaced-repetition flashcards | Lua, SQLite |
 
 ### Connect
 - **Portfolio:** [thekimberleyann.vercel.app](https://thekimberleyann.vercel.app)
